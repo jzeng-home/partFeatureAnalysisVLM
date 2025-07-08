@@ -2,7 +2,7 @@
 
 # Part Feature Analysis / Labeling via VLM
 
-This directory hosts our pipeline for analyzing and labeling 3D part features using vision-language models (VLMs). The process involves:
+This directory hosts our pipeline for analyzing and labeling 3D part features using vision-language models (VLMs). The process involves
 
 1. **Rendering 3D objects into eight views**
 2. **Generating five captions per view with OpenAI calls**
